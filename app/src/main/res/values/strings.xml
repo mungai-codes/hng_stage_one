@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hng stage one</string>
+    <string name="github_button_label">Open Github</string>
+    <string name="user_title">Android Developer</string>
+    <string name="user_name">Moses Mungai</string>
+</resources>

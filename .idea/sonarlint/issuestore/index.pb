@@ -1,0 +1,23 @@
+
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+{
+Kapp/src/main/java/com/mungai_codes/hngstageone/presentation/MainActivity.kt,0\7\074a44b2be9f52edcfdfae9a989283448d2e936b
+{
+Kapp/src/main/java/com/mungai_codes/hngstageone/presentation/main/UiEvent.kt,9\a\9a9c1b3db1d70c1313b721b0ff1908558fb647ce
+‡
+Wapp/src/main/java/com/mungai_codes/hngstageone/presentation/main/MainScreenViewModel.kt,8\b\8bd2d550a22aba91cd72a3ca0c1d4080db1a12cf
+ƒ
+Sapp/src/main/java/com/mungai_codes/hngstageone/presentation/main/MainScreenEvent.kt,2\e\2e2aa66706eb9a68f1fa9cb7911c48bebec3305f
+w
+Gapp/src/main/java/com/mungai_codes/hngstageone/navigation/Navigation.kt,1\6\16f1b6d48f5c765cb81b3a87b2f8d89ff3b8f6c6
+~
+Napp/src/main/java/com/mungai_codes/hngstageone/presentation/main/MainScreen.kt,7\e\7eee3b900e13f4d89e9e4820f480c157c6fe4ff0
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+‚
+Rapp/src/main/java/com/mungai_codes/hngstageone/presentation/github/GithubScreen.kt,0\3\03d47339016e2d95338e5b5444731bba5c60b275
+m
+=app/src/main/java/com/mungai_codes/hngstageone/domain/User.kt,2\f\2f54994872045997444abd9d57980cb98d426e49
